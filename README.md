@@ -1,3 +1,5 @@
+![이미지파일이 입력되는 곳입니다.](https://avatars.githubusercontent.com/u/102710280?v=4)
+
 <www.naver.com>
 
 [네이버](www.naver.com)
